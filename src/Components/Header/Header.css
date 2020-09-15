@@ -1,0 +1,13 @@
+.logo {
+    height: 20px;
+}
+.d-flex{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.backgroundImage{
+    /* background-image: url('./Images/bannerbackground.png'); */
+    width:100%;
+    
+}

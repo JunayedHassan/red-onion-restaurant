@@ -1,0 +1,23 @@
+nav{
+    text-align: center;
+    
+    font-weight: 600;
+    font-size: 20px;
+}
+nav li{
+    color: rgb(250, 44, 79);
+    padding-left: 25px;
+    display: inline;
+    list-style-type: none;
+}
+li:hover{
+    color: rgb(155, 7, 32);
+    cursor: pointer;
+    
+}
+.foodMenu{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
